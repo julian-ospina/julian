@@ -1,0 +1,142 @@
+ @import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap'); 
+
+body {
+  margin: 0px;
+  color: #40514E    ;
+  background-color: #EAFDFC;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name {
+    margin-top: 130px;
+    margin-bottom: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 6.5rem;
+    color: #66BFBF;
+}
+.subtitule {
+    font-size: 2rem;
+    color: #66BFBF;
+}
+.cloudUp {
+    position: absolute;
+    top: 30px;
+    right: 233px;
+    width: 160px;
+}
+.cloudMiddle {
+    position: absolute;
+    top: 427px;
+    right: 328px;
+    width: 85px;
+    }
+.cloudDown {
+    width: 150px;
+    position: absolute;
+    left: 220px;
+}
+
+.mountain {
+    width: 63%;
+}
+.introduction {
+    width: 43%;
+    margin: 35px auto;
+    line-height: 28px;
+}
+.programmerImage {
+    width: 20%;
+    margin: 35px auto; 
+}
+.codingImage {
+    width: 25%;
+    margin: 10px auto;   
+   float: left;
+}
+.travelImage {
+    width: 25%;
+    margin: 35px auto;
+    float: right;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted #579BB1;
+    width: 10%;
+    border-width: 5px;
+    margin: 60px auto;
+}
+.emailImage {
+    width: 80px;
+    margin: 20px auto;
+}
+h3 {
+  color: #11999E;
+  margin: 35px auto;
+  
+}
+h2 {
+    color: #11999E ;
+    font-weight: normal;
+    margin: 35px auto;
+    font-size: 2.2rem;
+
+  }
+ .skill-row {
+    width: 50%;
+    
+    margin: 35px auto;
+    text-align: left;
+    line-height: 2;
+ }
+ .skill-row2 {
+    width: 50%;
+    
+    margin: 35px auto;
+    text-align: right;
+    line-height: 2;
+ }
+ .travelSentence {
+    color: #11999E;
+ }
+ .bottom-container {
+    
+    padding: 15px; 
+    background-color:  #66BFBF;
+    padding: 20px 10px 5px;
+ }
+ a {
+    color: #11999E;
+    margin: 50px 15px 30px 15px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #EAFDFC;
+  }
+.footer-link {
+    font-size: 1rem;
+}
+ .bottom-name {
+    color: white;
+    margin: 21px 20px 1px 20px;
+    font-size: 0.8rem;
+ }
+ 
+
+  .btn {
+    margin: 20px;
+    width: 147px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: #66BFBF;
+    font-size: 15px;
+  }
+  .btn:hover {
+    background-color: #3ec7d6;
+  }
+  .contact {
+    color: white;
+    text-decoration: none;
+  }
